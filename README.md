@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, I'm Sushruth Nagaraj</h1>
-<h3 align="center">I'm an Android Application Development && Open Source Software Development enthusiast.</h3>
 
 - 🌱 I’m currently learning **Android Development, Kotlin, Data Structures and Algorithms**
 
