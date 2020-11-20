@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sushruth Nagaraj</h1>
-<h3 align="center">Currently pursuing Bachelor of Engineering in Information Science and Engineering from  J S S Academy of Technical Education, Bengaluru</h3>
+<h3 align="center">Currently pursuing Bachelor of Engineering in Information Science and Engineering from J S S Academy of Technical Education, Bengaluru</h3>
 
 - 🌱 I’m currently learning **Android Development, Kotlin, Data Structures and Algorithms**
 - 📫 How to reach me **sushruthnagaraj2001@gmail.com**
