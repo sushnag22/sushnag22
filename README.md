@@ -5,8 +5,8 @@ Android application development and open source software development enthusiast,
 
 ---
 
-### Tools and Technologies :
+### Languages, Tools and Technologies :
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" height="75" width="75px"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" height="75" width="75px"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="75" width="75px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="75" width="75px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" height="75" width="75px"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="75" width="75px"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" height="75" width="75px">  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" height="75" width="75px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="75" width="75px"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="75" width="75px">
 
 ---
